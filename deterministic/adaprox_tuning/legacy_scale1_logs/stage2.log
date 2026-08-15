@@ -1,0 +1,178 @@
+Using lower_scale=1
+Starting SG grid: 48 configs, workers=24
+SG [1/48] elapsed=7.1m eta=335.0m best_final_total_mean=0.878359 status=ok
+SG [2/48] elapsed=7.1m eta=163.9m best_final_total_mean=0.878359 status=ok
+SG [3/48] elapsed=7.1m eta=106.9m best_final_total_mean=0.878359 status=ok
+SG [4/48] elapsed=7.2m eta=78.8m best_final_total_mean=0.711707 status=ok
+SG [5/48] elapsed=7.2m eta=61.8m best_final_total_mean=0.601684 status=ok
+SG [6/48] elapsed=7.2m eta=50.4m best_final_total_mean=0.601684 status=ok
+SG [7/48] elapsed=7.2m eta=42.2m best_final_total_mean=0.601684 status=ok
+SG [8/48] elapsed=7.2m eta=36.1m best_final_total_mean=0.601684 status=ok
+SG [9/48] elapsed=7.2m eta=31.4m best_final_total_mean=0.601684 status=ok
+SG [10/48] elapsed=7.3m eta=27.6m best_final_total_mean=0.601684 status=ok
+SG [11/48] elapsed=7.3m eta=24.5m best_final_total_mean=0.601684 status=ok
+SG [12/48] elapsed=7.3m eta=21.9m best_final_total_mean=0.601684 status=ok
+SG [13/48] elapsed=7.3m eta=19.6m best_final_total_mean=0.601684 status=ok
+SG [14/48] elapsed=7.3m eta=17.7m best_final_total_mean=0.601684 status=ok
+SG [15/48] elapsed=7.3m eta=16.1m best_final_total_mean=0.601684 status=ok
+SG [16/48] elapsed=7.3m eta=14.6m best_final_total_mean=0.601684 status=ok
+SG [17/48] elapsed=7.3m eta=13.3m best_final_total_mean=0.601684 status=ok
+SG [18/48] elapsed=7.3m eta=12.2m best_final_total_mean=0.601684 status=ok
+SG [19/48] elapsed=7.3m eta=11.2m best_final_total_mean=0.601684 status=ok
+SG [20/48] elapsed=7.4m eta=10.3m best_final_total_mean=0.601684 status=ok
+SG [21/48] elapsed=7.4m eta=9.5m best_final_total_mean=0.601684 status=ok
+SG [22/48] elapsed=7.5m eta=8.8m best_final_total_mean=0.601684 status=ok
+SG [23/48] elapsed=7.5m eta=8.1m best_final_total_mean=0.601684 status=ok
+SG [24/48] elapsed=7.5m eta=7.5m best_final_total_mean=0.601684 status=ok
+SG [25/48] elapsed=14.6m eta=13.4m best_final_total_mean=0.601684 status=ok
+SG [26/48] elapsed=14.6m eta=12.3m best_final_total_mean=0.601684 status=ok
+SG [27/48] elapsed=14.6m eta=11.3m best_final_total_mean=0.601684 status=ok
+SG [28/48] elapsed=14.6m eta=10.4m best_final_total_mean=0.601684 status=ok
+SG [29/48] elapsed=14.6m eta=9.6m best_final_total_mean=0.601684 status=ok
+SG [30/48] elapsed=14.6m eta=8.8m best_final_total_mean=0.601684 status=ok
+SG [31/48] elapsed=14.6m eta=8.0m best_final_total_mean=0.601684 status=ok
+SG [32/48] elapsed=14.7m eta=7.3m best_final_total_mean=0.601684 status=ok
+SG [33/48] elapsed=14.7m eta=6.7m best_final_total_mean=0.601684 status=ok
+SG [34/48] elapsed=14.7m eta=6.0m best_final_total_mean=0.601684 status=ok
+SG [35/48] elapsed=14.7m eta=5.4m best_final_total_mean=0.601684 status=ok
+SG [36/48] elapsed=14.7m eta=4.9m best_final_total_mean=0.601684 status=ok
+SG [37/48] elapsed=14.7m eta=4.4m best_final_total_mean=0.601684 status=ok
+SG [38/48] elapsed=14.7m eta=3.9m best_final_total_mean=0.601684 status=ok
+SG [39/48] elapsed=14.7m eta=3.4m best_final_total_mean=0.601684 status=ok
+SG [40/48] elapsed=14.7m eta=2.9m best_final_total_mean=0.601684 status=ok
+SG [41/48] elapsed=14.7m eta=2.5m best_final_total_mean=0.601684 status=ok
+SG [42/48] elapsed=14.7m eta=2.1m best_final_total_mean=0.601684 status=ok
+SG [43/48] elapsed=14.7m eta=1.7m best_final_total_mean=0.601684 status=ok
+SG [44/48] elapsed=14.7m eta=1.3m best_final_total_mean=0.601684 status=ok
+SG [45/48] elapsed=14.7m eta=1.0m best_final_total_mean=0.601684 status=ok
+SG [46/48] elapsed=14.7m eta=0.6m best_final_total_mean=0.601684 status=ok
+SG [47/48] elapsed=14.7m eta=0.3m best_final_total_mean=0.601684 status=ok
+SG [48/48] elapsed=14.7m eta=0.0m best_final_total_mean=0.601684 status=ok
+Saved SG grid table: /mnt/data/cqc/anaconda3/project/Synthetic example/final_report_experiments/deterministic/adaprox_tuning/results/legacy_scale1_stage2_total_iterinner_N20_sg_grid.csv
+Best SG row: {'alpha': 0.001, 'xi': 0.0001, 'sigma': 0.001, 'beta': 0.01, 'gamma0': 300.0, 'threshold_scale': 1.0, 'constraint_step_interval': 10, 'num_seeds': 1, 'final_total_mean': 0.6016844511032104, 'final_total_std': 0.0, 'final_upper_mean': 0.11263834685087204, 'final_upper_std': 0.0, 'final_lower_mean': 0.4890460968017578, 'final_lower_std': 0.0, 'final_max_constraint_mean': 17.375070571899414, 'final_max_constraint_std': 0.0, 'final_score_mean': 17.976755023002625, 'final_score_std': 0.0, 'tail_mean_total_mean': 0.6016844511032104, 'tail_mean_total_std': 0.0, 'tail_mean_upper_mean': 0.11263834685087204, 'tail_mean_upper_std': 0.0, 'tail_mean_lower_mean': 0.4890460968017578, 'tail_mean_lower_std': 0.0, 'tail_mean_max_constraint_mean': 17.375070571899414, 'tail_mean_max_constraint_std': 0.0, 'tail_score_mean': 17.976755023002625, 'tail_score_std': 0.0, 'best_total_mean': 0.6016844511032104, 'best_total_std': 0.0, 'best_upper_mean': 0.11263834685087204, 'best_upper_std': 0.0, 'best_lower_mean': 0.3714917302131653, 'best_lower_std': 0.0, 'best_max_constraint_mean': 12.63648796081543, 'best_max_constraint_std': 0.0, 'time_mean': 420.80729874875396, 'time_std': 0.0, 'lower_scale': 1.0, 'method': 'SG', 'status': 'ok', 'error': ''}
+Starting PD grid: 108 configs, workers=24
+PD [1/108] elapsed=6.4m eta=688.5m best_final_total_mean=0.732369 status=ok
+PD [2/108] elapsed=6.5m eta=343.6m best_final_total_mean=0.702154 status=ok
+PD [3/108] elapsed=6.5m eta=227.2m best_final_total_mean=0.702154 status=ok
+PD [4/108] elapsed=6.5m eta=168.9m best_final_total_mean=0.532173 status=ok
+PD [5/108] elapsed=6.5m eta=133.8m best_final_total_mean=0.507017 status=ok
+PD [6/108] elapsed=6.5m eta=110.5m best_final_total_mean=0.507017 status=ok
+PD [7/108] elapsed=6.5m eta=93.8m best_final_total_mean=0.507017 status=ok
+PD [8/108] elapsed=6.5m eta=81.3m best_final_total_mean=0.507017 status=ok
+PD [9/108] elapsed=6.5m eta=71.7m best_final_total_mean=0.506803 status=ok
+PD [10/108] elapsed=6.5m eta=64.1m best_final_total_mean=0.506803 status=ok
+PD [11/108] elapsed=6.5m eta=57.7m best_final_total_mean=0.506803 status=ok
+PD [12/108] elapsed=6.5m eta=52.4m best_final_total_mean=0.506803 status=ok
+PD [13/108] elapsed=6.5m eta=47.8m best_final_total_mean=0.506803 status=ok
+PD [14/108] elapsed=6.5m eta=44.0m best_final_total_mean=0.506803 status=ok
+PD [15/108] elapsed=6.6m eta=40.6m best_final_total_mean=0.506803 status=ok
+PD [16/108] elapsed=6.6m eta=37.7m best_final_total_mean=0.506803 status=ok
+PD [17/108] elapsed=6.6m eta=35.1m best_final_total_mean=0.506803 status=ok
+PD [18/108] elapsed=6.6m eta=32.8m best_final_total_mean=0.506803 status=ok
+PD [19/108] elapsed=6.6m eta=30.7m best_final_total_mean=0.506803 status=ok
+PD [20/108] elapsed=6.6m eta=28.8m best_final_total_mean=0.506803 status=ok
+PD [21/108] elapsed=6.6m eta=27.2m best_final_total_mean=0.506803 status=ok
+PD [22/108] elapsed=6.6m eta=25.6m best_final_total_mean=0.506803 status=ok
+PD [23/108] elapsed=6.6m eta=24.2m best_final_total_mean=0.506803 status=ok
+PD [24/108] elapsed=6.6m eta=23.0m best_final_total_mean=0.506803 status=ok
+PD [25/108] elapsed=12.0m eta=39.8m best_final_total_mean=0.506803 status=ok
+PD [26/108] elapsed=12.0m eta=37.8m best_final_total_mean=0.506803 status=ok
+PD [27/108] elapsed=12.0m eta=35.9m best_final_total_mean=0.5055 status=ok
+PD [28/108] elapsed=12.0m eta=34.3m best_final_total_mean=0.5055 status=ok
+PD [29/108] elapsed=12.0m eta=32.7m best_final_total_mean=0.5055 status=ok
+PD [30/108] elapsed=12.0m eta=31.2m best_final_total_mean=0.5055 status=ok
+PD [31/108] elapsed=12.0m eta=29.8m best_final_total_mean=0.5055 status=ok
+PD [32/108] elapsed=12.0m eta=28.5m best_final_total_mean=0.5055 status=ok
+PD [33/108] elapsed=12.0m eta=27.3m best_final_total_mean=0.5055 status=ok
+PD [34/108] elapsed=12.0m eta=26.1m best_final_total_mean=0.5055 status=ok
+PD [35/108] elapsed=12.0m eta=25.0m best_final_total_mean=0.5055 status=ok
+PD [36/108] elapsed=12.0m eta=24.0m best_final_total_mean=0.5055 status=ok
+PD [37/108] elapsed=12.0m eta=23.0m best_final_total_mean=0.505313 status=ok
+PD [38/108] elapsed=12.0m eta=22.1m best_final_total_mean=0.505313 status=ok
+PD [39/108] elapsed=12.0m eta=21.3m best_final_total_mean=0.505313 status=ok
+PD [40/108] elapsed=12.0m eta=20.4m best_final_total_mean=0.505313 status=ok
+PD [41/108] elapsed=12.0m eta=19.7m best_final_total_mean=0.505313 status=ok
+PD [42/108] elapsed=12.1m eta=18.9m best_final_total_mean=0.505313 status=ok
+PD [43/108] elapsed=12.1m eta=18.2m best_final_total_mean=0.505313 status=ok
+PD [44/108] elapsed=12.1m eta=17.5m best_final_total_mean=0.505313 status=ok
+PD [45/108] elapsed=12.1m eta=16.9m best_final_total_mean=0.505313 status=ok
+PD [46/108] elapsed=12.1m eta=16.3m best_final_total_mean=0.505313 status=ok
+PD [47/108] elapsed=12.1m eta=15.7m best_final_total_mean=0.505313 status=ok
+PD [48/108] elapsed=12.1m eta=15.1m best_final_total_mean=0.505313 status=ok
+PD [49/108] elapsed=17.4m eta=20.9m best_final_total_mean=0.505313 status=ok
+PD [50/108] elapsed=17.4m eta=20.2m best_final_total_mean=0.505313 status=ok
+PD [51/108] elapsed=17.4m eta=19.4m best_final_total_mean=0.505313 status=ok
+PD [52/108] elapsed=17.4m eta=18.7m best_final_total_mean=0.505313 status=ok
+PD [53/108] elapsed=17.4m eta=18.0m best_final_total_mean=0.505313 status=ok
+PD [54/108] elapsed=17.4m eta=17.4m best_final_total_mean=0.505313 status=ok
+PD [55/108] elapsed=17.4m eta=16.8m best_final_total_mean=0.505313 status=ok
+PD [56/108] elapsed=17.4m eta=16.2m best_final_total_mean=0.505313 status=ok
+PD [57/108] elapsed=17.4m eta=15.6m best_final_total_mean=0.505313 status=ok
+PD [58/108] elapsed=17.4m eta=15.0m best_final_total_mean=0.505313 status=ok
+PD [59/108] elapsed=17.4m eta=14.5m best_final_total_mean=0.505313 status=ok
+PD [60/108] elapsed=17.4m eta=13.9m best_final_total_mean=0.505313 status=ok
+PD [61/108] elapsed=17.4m eta=13.4m best_final_total_mean=0.505313 status=ok
+PD [62/108] elapsed=17.4m eta=12.9m best_final_total_mean=0.505313 status=ok
+PD [63/108] elapsed=17.4m eta=12.5m best_final_total_mean=0.505313 status=ok
+PD [64/108] elapsed=17.5m eta=12.0m best_final_total_mean=0.505313 status=ok
+PD [65/108] elapsed=17.5m eta=11.6m best_final_total_mean=0.505313 status=ok
+PD [66/108] elapsed=17.6m eta=11.2m best_final_total_mean=0.505313 status=ok
+PD [67/108] elapsed=17.6m eta=10.7m best_final_total_mean=0.505313 status=ok
+PD [68/108] elapsed=17.6m eta=10.3m best_final_total_mean=0.505313 status=ok
+PD [69/108] elapsed=17.6m eta=9.9m best_final_total_mean=0.505313 status=ok
+PD [70/108] elapsed=17.6m eta=9.5m best_final_total_mean=0.505313 status=ok
+PD [71/108] elapsed=17.6m eta=9.2m best_final_total_mean=0.505313 status=ok
+PD [72/108] elapsed=17.6m eta=8.8m best_final_total_mean=0.505313 status=ok
+PD [73/108] elapsed=22.8m eta=10.9m best_final_total_mean=0.505313 status=ok
+PD [74/108] elapsed=22.8m eta=10.5m best_final_total_mean=0.505313 status=ok
+PD [75/108] elapsed=22.8m eta=10.0m best_final_total_mean=0.505313 status=ok
+PD [76/108] elapsed=22.8m eta=9.6m best_final_total_mean=0.505313 status=ok
+PD [77/108] elapsed=22.8m eta=9.2m best_final_total_mean=0.505313 status=ok
+PD [78/108] elapsed=22.8m eta=8.8m best_final_total_mean=0.505313 status=ok
+PD [79/108] elapsed=22.8m eta=8.4m best_final_total_mean=0.505313 status=ok
+PD [80/108] elapsed=22.8m eta=8.0m best_final_total_mean=0.505313 status=ok
+PD [81/108] elapsed=22.8m eta=7.6m best_final_total_mean=0.505313 status=ok
+PD [82/108] elapsed=22.8m eta=7.2m best_final_total_mean=0.505313 status=ok
+PD [83/108] elapsed=22.8m eta=6.9m best_final_total_mean=0.505313 status=ok
+PD [84/108] elapsed=22.8m eta=6.5m best_final_total_mean=0.505313 status=ok
+PD [85/108] elapsed=22.8m eta=6.2m best_final_total_mean=0.505313 status=ok
+PD [86/108] elapsed=22.9m eta=5.8m best_final_total_mean=0.505313 status=ok
+PD [87/108] elapsed=22.9m eta=5.5m best_final_total_mean=0.505313 status=ok
+PD [88/108] elapsed=23.0m eta=5.2m best_final_total_mean=0.505313 status=ok
+PD [89/108] elapsed=23.0m eta=4.9m best_final_total_mean=0.505313 status=ok
+PD [90/108] elapsed=23.0m eta=4.6m best_final_total_mean=0.505313 status=ok
+PD [91/108] elapsed=23.0m eta=4.3m best_final_total_mean=0.505313 status=ok
+PD [92/108] elapsed=23.0m eta=4.0m best_final_total_mean=0.505313 status=ok
+PD [93/108] elapsed=23.0m eta=3.7m best_final_total_mean=0.505313 status=ok
+PD [94/108] elapsed=23.0m eta=3.4m best_final_total_mean=0.505313 status=ok
+PD [95/108] elapsed=23.0m eta=3.2m best_final_total_mean=0.505313 status=ok
+PD [96/108] elapsed=23.1m eta=2.9m best_final_total_mean=0.505313 status=ok
+PD [97/108] elapsed=25.7m eta=2.9m best_final_total_mean=0.505313 status=ok
+PD [98/108] elapsed=25.7m eta=2.6m best_final_total_mean=0.505313 status=ok
+PD [99/108] elapsed=25.7m eta=2.3m best_final_total_mean=0.505313 status=ok
+PD [100/108] elapsed=25.7m eta=2.1m best_final_total_mean=0.505313 status=ok
+PD [101/108] elapsed=25.7m eta=1.8m best_final_total_mean=0.505313 status=ok
+PD [102/108] elapsed=25.7m eta=1.5m best_final_total_mean=0.505313 status=ok
+PD [103/108] elapsed=25.7m eta=1.2m best_final_total_mean=0.505313 status=ok
+PD [104/108] elapsed=25.7m eta=1.0m best_final_total_mean=0.505313 status=ok
+PD [105/108] elapsed=25.7m eta=0.7m best_final_total_mean=0.505313 status=ok
+PD [106/108] elapsed=25.7m eta=0.5m best_final_total_mean=0.505313 status=ok
+PD [107/108] elapsed=25.7m eta=0.2m best_final_total_mean=0.505313 status=ok
+PD [108/108] elapsed=25.8m eta=0.0m best_final_total_mean=0.505313 status=ok
+Saved PD grid table: /mnt/data/cqc/anaconda3/project/Synthetic example/final_report_experiments/deterministic/adaprox_tuning/results/legacy_scale1_stage2_total_iterinner_N20_pd_grid.csv
+Best PD row: {'alpha': 0.001, 'xi': 0.0001, 'sigma': 0.01, 'beta': 0.01, 'primal_lr': 0.001, 'dual_lr': 0.001, 'lambda_max': 100.0, 'dual_momentum': 0.0, 'reset_lambda_per_outer': False, 'num_seeds': 1, 'final_total_mean': 0.5053129196166992, 'final_total_std': 0.0, 'final_upper_mean': 0.006466875784099102, 'final_upper_std': 0.0, 'final_lower_mean': 0.49884605407714844, 'final_lower_std': 0.0, 'final_max_constraint_mean': 1.6223071813583374, 'final_max_constraint_std': 0.0, 'final_score_mean': 2.1276201009750366, 'final_score_std': 0.0, 'tail_mean_total_mean': 0.5053129196166992, 'tail_mean_total_std': 0.0, 'tail_mean_upper_mean': 0.006466875784099102, 'tail_mean_upper_std': 0.0, 'tail_mean_lower_mean': 0.49884605407714844, 'tail_mean_lower_std': 0.0, 'tail_mean_max_constraint_mean': 1.6223071813583374, 'tail_mean_max_constraint_std': 0.0, 'tail_score_mean': 2.1276201009750366, 'tail_score_std': 0.0, 'best_total_mean': 0.5053129196166992, 'best_total_std': 0.0, 'best_upper_mean': 0.006466875784099102, 'best_upper_std': 0.0, 'best_lower_mean': 0.3714917302131653, 'best_lower_std': 0.0, 'best_max_constraint_mean': 1.6223071813583374, 'best_max_constraint_std': 0.0, 'time_mean': 326.21604294190183, 'time_std': 0.0, 'lower_scale': 1.0, 'method': 'PD', 'status': 'ok', 'error': ''}
+Running comparison with 10 repeated seeds
+comparison repeat 1/10, seed=42
+comparison repeat 2/10, seed=43
+comparison repeat 3/10, seed=44
+comparison repeat 4/10, seed=45
+comparison repeat 5/10, seed=46
+comparison repeat 6/10, seed=47
+comparison repeat 7/10, seed=48
+comparison repeat 8/10, seed=49
+comparison repeat 9/10, seed=50
+comparison repeat 10/10, seed=51
+Saved comparison data: /mnt/data/cqc/anaconda3/project/Synthetic example/final_report_experiments/deterministic/adaprox_tuning/results/legacy_scale1_stage2_total_iterinner_N20_comparison.pt
+Saved comparison figure: /mnt/data/cqc/anaconda3/project/Synthetic example/final_report_experiments/deterministic/adaprox_tuning/results/legacy_scale1_stage2_total_iterinner_N20_comparison.png
+Best SG params: {'alpha': 0.001, 'xi': 0.0001, 'sigma': 0.001, 'beta': 0.01, 'gamma0': 300.0, 'threshold_scale': 1.0, 'constraint_step_interval': 10, 'num_seeds': 1, 'final_total_mean': 0.6016844511032104, 'final_total_std': 0.0, 'final_upper_mean': 0.11263834685087204, 'final_upper_std': 0.0, 'final_lower_mean': 0.4890460968017578, 'final_lower_std': 0.0, 'final_max_constraint_mean': 17.375070571899414, 'final_max_constraint_std': 0.0, 'final_score_mean': 17.976755023002625, 'final_score_std': 0.0, 'tail_mean_total_mean': 0.6016844511032104, 'tail_mean_total_std': 0.0, 'tail_mean_upper_mean': 0.11263834685087204, 'tail_mean_upper_std': 0.0, 'tail_mean_lower_mean': 0.4890460968017578, 'tail_mean_lower_std': 0.0, 'tail_mean_max_constraint_mean': 17.375070571899414, 'tail_mean_max_constraint_std': 0.0, 'tail_score_mean': 17.976755023002625, 'tail_score_std': 0.0, 'best_total_mean': 0.6016844511032104, 'best_total_std': 0.0, 'best_upper_mean': 0.11263834685087204, 'best_upper_std': 0.0, 'best_lower_mean': 0.3714917302131653, 'best_lower_std': 0.0, 'best_max_constraint_mean': 12.63648796081543, 'best_max_constraint_std': 0.0, 'time_mean': 420.80729874875396, 'time_std': 0.0, 'lower_scale': 1.0, 'method': 'SG', 'status': 'ok', 'error': ''}
+Best PD params: {'alpha': 0.001, 'xi': 0.0001, 'sigma': 0.01, 'beta': 0.01, 'primal_lr': 0.001, 'dual_lr': 0.001, 'lambda_max': 100.0, 'dual_momentum': 0.0, 'reset_lambda_per_outer': False, 'num_seeds': 1, 'final_total_mean': 0.5053129196166992, 'final_total_std': 0.0, 'final_upper_mean': 0.006466875784099102, 'final_upper_std': 0.0, 'final_lower_mean': 0.49884605407714844, 'final_lower_std': 0.0, 'final_max_constraint_mean': 1.6223071813583374, 'final_max_constraint_std': 0.0, 'final_score_mean': 2.1276201009750366, 'final_score_std': 0.0, 'tail_mean_total_mean': 0.5053129196166992, 'tail_mean_total_std': 0.0, 'tail_mean_upper_mean': 0.006466875784099102, 'tail_mean_upper_std': 0.0, 'tail_mean_lower_mean': 0.49884605407714844, 'tail_mean_lower_std': 0.0, 'tail_mean_max_constraint_mean': 1.6223071813583374, 'tail_mean_max_constraint_std': 0.0, 'tail_score_mean': 2.1276201009750366, 'tail_score_std': 0.0, 'best_total_mean': 0.5053129196166992, 'best_total_std': 0.0, 'best_upper_mean': 0.006466875784099102, 'best_upper_std': 0.0, 'best_lower_mean': 0.3714917302131653, 'best_lower_std': 0.0, 'best_max_constraint_mean': 1.6223071813583374, 'best_max_constraint_std': 0.0, 'time_mean': 326.21604294190183, 'time_std': 0.0, 'lower_scale': 1.0, 'method': 'PD', 'status': 'ok', 'error': ''}
