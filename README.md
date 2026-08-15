@@ -3,7 +3,7 @@
 Run the commands below from `final_report_experiments/`. Outputs are written to
 the `deterministic/result/` and `stochastic/result/` directories.
 
-| Result in `shiyanbaogao.tex` | Run file(s), in order | Canonical output |
+| Result | Run file(s), in order | Canonical output |
 | --- | --- | --- |
 | Deterministic table, `n=100` | `python deterministic/run_scholtes_same_init_compare.py --n 100 --device cpu`<br>`python deterministic/run_final_deterministic.py --device cpu --dims 100 --steps 1000` | `deterministic/result/final_report_table_n100.tex` |
 | Deterministic table, `n=1000` | `python deterministic/run_scholtes_same_init_compare.py --n 1000 --device cpu`<br>`python deterministic/run_final_deterministic.py --device cpu --dims 1000 --steps 1000` | `deterministic/result/final_report_table_n1000.tex` |
